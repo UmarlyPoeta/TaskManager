@@ -1,0 +1,6 @@
+public enum TASK_MODIFY_CHOICE {
+    NAME,
+    DESCRIPTION,
+    STATUS,
+    DEADLINE
+}
